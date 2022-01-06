@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="account_type">com.eng.account.login</string>
+	<string name="app_name"><b>account</b></string>
+	<string name="app_package">com.eng.account</string>
+    <string name="welcome">Welcome %s</string>
+	<string name="logout_button">Logout</string>
+	<string name="fetch_contacts_button">Fetch Contacts</string>
+	<string name="fetch_accounts_button">Fetch Accounts</string>
+	<string name="update_accounts_button">Update contacts</string>
+	<string name="clear_button">Clear</string>
+</resources>
